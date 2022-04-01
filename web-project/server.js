@@ -19,7 +19,7 @@ mongoose.connect(url, {
 
 let data;
 
-app.get("/api/info", (req, res) => {
+app.get("/api/data", (req, res) => {
     try{
         res.send({success:true, data: data});
     }
