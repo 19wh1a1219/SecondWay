@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <div className="App">
-    {/* <h1>HELLO WORLD!!!</h1> */}
+    <h1>HELLO WORLD!!!</h1>
     {/* <h1>{ getRequest() }</h1> */}
     {/* <button onClick={ this.getRequest }>get</button> */}
     {/* style={{'border': '1px solid'}} */}
